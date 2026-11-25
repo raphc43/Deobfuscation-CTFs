@@ -1,6 +1,6 @@
 # Useless VM
 
-The challenge hides its flag inside a custom VM protected by multiple layers of obfuscation, anti tampering checks, and runtime code generation.
+The flag is hidden inside a custom VM protected by multiple layers of obfuscation, anti tampering checks, and runtime code generation.
 
 The original challenge description also mentions an additional JSFuck layer. However, recovering the flag doesn't require directly deobfuscating or reversing the JSFuck itself.
 
